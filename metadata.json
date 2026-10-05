@@ -1,0 +1,6 @@
+{
+  "name": "AI Scrap Exchanger",
+  "description": "An AI-powered real-time marketplace converting Indian industrial scrap into verified raw material with automated matchmaking, dynamic commodity pricing, and smart negotiation support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
